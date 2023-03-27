@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3e0938952994fc4dbe4cb38cf42a37a, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Viktor Reznov is been dead for 5 years!. He died at Vorkuta during the
+      escape!
+    speaker: {fileID: 11400000, guid: 9af39d1411230e04eaf47613f20f9d9d, type: 2}
+  - text: All these years you thougt he was with you....
+    speaker: {fileID: 11400000, guid: 9af39d1411230e04eaf47613f20f9d9d, type: 2}
+  - text: THAT WAS JUST IN YOUR MIND!
+    speaker: {fileID: 11400000, guid: 9af39d1411230e04eaf47613f20f9d9d, type: 2}
+  backgroud: {fileID: 21300000, guid: e19e580bc642a6c42a1b7ccff8626885, type: 3}
+  nextScene: {fileID: 0}
