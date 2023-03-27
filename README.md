@@ -6,8 +6,8 @@
 > - Pastikan teman-teman harus berada dalam Collaborator pada repository ini
 > - Pastikan teman-teman harus melakukan clone dari link **Repository** ini
 > - Setelah melakukan clone, harus di pastikan juga letak local filenya. Karena akan memengaruhi **Directory** pada unity.
-> - Jika ingin menambahkan atau mengubah file atau script, **JANGAN LANGSUNG** dilakukan pada branch *main*, disarankan untu membuat branch baru agar tidak menyenggol **Core** utama project ini.
+> - Jika ingin menambahkan atau mengubah file atau script, **JANGAN LANGSUNG** dilakukan pada branch *main*, disarankan untuk membuat branch baru agar tidak menyenggol **Core** utama project ini.
 
 
 
-### FAQ (Frequently Asked Question)
+> ### FAQ (Frequently Asked Question)
