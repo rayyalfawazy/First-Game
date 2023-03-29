@@ -10,7 +10,7 @@
 > - Bebas menggunakan aplikasi SCM apa saja, berikut aplikasi SCM yang disarankan :
 >> - GitHub Desktop (GUI-Based).
 >> - Jira Source Tree (GUI-Based).
->> - Git Terminal (CLI-Based, diusahakan untuk menginstal Git Terminal juga, untuk berjaga-jaga jika terdapat bug pada aplikasi GUI).
+>> - Git Terminal (CLI-Based, disarankan untuk menginstal Git Terminal juga, untuk berjaga-jaga jika terdapat bug pada aplikasi GUI).
 
 
 > ### FAQ (Frequently Asked Question)
