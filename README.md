@@ -11,6 +11,8 @@
 >> - GitHub Desktop (GUI-Based).
 >> - Jira Source Tree (GUI-Based).
 >> - Git Terminal (CLI-Based, disarankan untuk menginstal Git Terminal juga, untuk berjaga-jaga jika terdapat bug pada aplikasi GUI).
+> - **PASTIKAN!** Pull atau Fetch terlebih dahulu sebelum melanjutkan project, untuk mensinkronisasikan remote dengan local.
 
 
 > ### FAQ (Frequently Asked Question)
+
