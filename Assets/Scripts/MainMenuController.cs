@@ -14,4 +14,9 @@ public class MainMenuController : MonoBehaviour
     {
         SceneManager.LoadScene("2004Chronology");
     }
+
+    public void Credits() 
+    {
+        Debug.Log("Game by Impax Dev");
+    }
 }
