@@ -5,9 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuController : MonoBehaviour
 {
-    public void Exit()
+    public void ExitGame()
     {
         Application.Quit();
+        Debug.Log("Quited");
     }
 
     public void NewGame()
