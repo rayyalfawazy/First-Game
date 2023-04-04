@@ -15,6 +15,6 @@ public class StoryScene : ScriptableObject
     public struct Sentence
     {
         [TextArea]public string text;
-        public Speaker speaker;
+        public Speaker speaker; 
     }
 }
