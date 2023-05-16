@@ -13,7 +13,7 @@ public class MainMenuController : MonoBehaviour
 
     public void NewGame()
     {
-        SceneManager.LoadScene("2004Chronology");
+        SceneManager.LoadScene("Gameplay");
     }
 
     public void Credits() 

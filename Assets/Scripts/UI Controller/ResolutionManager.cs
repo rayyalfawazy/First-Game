@@ -21,6 +21,8 @@ public class ResolutionManager : MonoBehaviour
         resolutionDropdown.ClearOptions();
         currentRefreshRate = Screen.currentResolution.refreshRate; // Ambil data Refresh Rate dari Screen System Resolution
 
+        Screen.fullScreen = true;
+
         for (int i = 0; i < resolutions.Length; i++) 
         {
             if (resolutions[i].refreshRate == currentRefreshRate) // Ambil kondisi dimana Refresh Rate System sama dengan Refre
@@ -48,6 +50,11 @@ public class ResolutionManager : MonoBehaviour
     public void SetResolution(int resolutionIndex)
     {
         Resolution resolution = filteredResolution[resolutionIndex];
-        Screen.SetResolution(resolution.width, resolution.height, true);
+        Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen);
+    }
+
+    public void SetFullScreen(bool value) 
+    {
+        Screen.fullScreen = value;
     }
 }
